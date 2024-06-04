@@ -46,6 +46,7 @@
 주차 폴더 아래 코드 올리기
 본인 이름 폴더명은 모두 소문자로
 ex) sunkyoung/week_01/PROG_42587_프로세스.java
+ex) sunkyoung/week_01/CODETREE_문제이릉.java
 
 fork한 개인 레포지토리 Commit Message
 ex) PROG_42587_프로세스
